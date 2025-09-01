@@ -8,7 +8,7 @@
     </classes>
   </test> <!-- Test -->
   
- <!-- <test thread-count="5" name="EdgeTest">
+ <<test thread-count="5" name="EdgeTest">
   <parameter name="browser" value="edge"/>
     <classes>
       <class name="runners.TestRunner"/>
@@ -19,5 +19,5 @@
     <classes>
       <class name="runners.TestRunner"/>
     </classes>
-  </test> --> <!-- Test -->
+  </test>  <!-- Test -->
 </suite> <!-- Suite -->
